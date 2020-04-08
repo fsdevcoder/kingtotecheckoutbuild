@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kingtotecheckoutbuild/precache-manifest.bf67a3d134d184f36a4cc8df5a762d92.js"
+  "/kingtotecheckoutbuild/precache-manifest.69e634cb5cba4c7f81d656abee855e0b.js"
 );
 
 self.addEventListener('message', (event) => {
