@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kingtotecheckoutbuild/static/css/main.172fb563.css",
-    "main.js": "/kingtotecheckoutbuild/static/js/main.cde1050d.js",
-    "main.js.map": "/kingtotecheckoutbuild/static/js/main.cde1050d.js.map",
+    "main.js": "/kingtotecheckoutbuild/static/js/main.5d7ab562.js",
+    "main.js.map": "/kingtotecheckoutbuild/static/js/main.5d7ab562.js.map",
     "index.html": "/kingtotecheckoutbuild/index.html",
-    "precache-manifest.bb2453d7ca715ca8faa9594d1f5ec27d.js": "/kingtotecheckoutbuild/precache-manifest.bb2453d7ca715ca8faa9594d1f5ec27d.js",
+    "precache-manifest.fb2be423c2d2a964bb8aa76cfb49e7ad.js": "/kingtotecheckoutbuild/precache-manifest.fb2be423c2d2a964bb8aa76cfb49e7ad.js",
     "service-worker.js": "/kingtotecheckoutbuild/service-worker.js",
     "static/css/main.172fb563.css.map": "/kingtotecheckoutbuild/static/css/main.172fb563.css.map",
-    "static/js/main.cde1050d.js.LICENSE.txt": "/kingtotecheckoutbuild/static/js/main.cde1050d.js.LICENSE.txt",
+    "static/js/main.5d7ab562.js.LICENSE.txt": "/kingtotecheckoutbuild/static/js/main.5d7ab562.js.LICENSE.txt",
     "static/media/kt_logo_150.png": "/kingtotecheckoutbuild/static/media/kt_logo_150.eea69254.png"
   },
   "entrypoints": [
     "static/css/main.172fb563.css",
-    "static/js/main.cde1050d.js"
+    "static/js/main.5d7ab562.js"
   ]
 }
