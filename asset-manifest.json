@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kingtotecheckoutbuild/static/css/main.1a1bc014.css",
-    "main.js": "/kingtotecheckoutbuild/static/js/main.a4a7e03a.js",
-    "main.js.map": "/kingtotecheckoutbuild/static/js/main.a4a7e03a.js.map",
+    "main.css": "/kingtotecheckoutbuild/static/css/main.430556d5.css",
+    "main.js": "/kingtotecheckoutbuild/static/js/main.a8e787c5.js",
+    "main.js.map": "/kingtotecheckoutbuild/static/js/main.a8e787c5.js.map",
     "index.html": "/kingtotecheckoutbuild/index.html",
-    "precache-manifest.6aba4e135b18aad4d8829ddbcc18b683.js": "/kingtotecheckoutbuild/precache-manifest.6aba4e135b18aad4d8829ddbcc18b683.js",
+    "precache-manifest.9a067e53c4aaf57d48f3243650062eb5.js": "/kingtotecheckoutbuild/precache-manifest.9a067e53c4aaf57d48f3243650062eb5.js",
     "service-worker.js": "/kingtotecheckoutbuild/service-worker.js",
-    "static/css/main.1a1bc014.css.map": "/kingtotecheckoutbuild/static/css/main.1a1bc014.css.map",
-    "static/js/main.a4a7e03a.js.LICENSE.txt": "/kingtotecheckoutbuild/static/js/main.a4a7e03a.js.LICENSE.txt",
+    "static/css/main.430556d5.css.map": "/kingtotecheckoutbuild/static/css/main.430556d5.css.map",
+    "static/js/main.a8e787c5.js.LICENSE.txt": "/kingtotecheckoutbuild/static/js/main.a8e787c5.js.LICENSE.txt",
     "static/media/ditch.png": "/kingtotecheckoutbuild/static/media/ditch.786c1b00.png",
     "static/media/kt_logo_150.png": "/kingtotecheckoutbuild/static/media/kt_logo_150.eea69254.png"
   },
   "entrypoints": [
-    "static/css/main.1a1bc014.css",
-    "static/js/main.a4a7e03a.js"
+    "static/css/main.430556d5.css",
+    "static/js/main.a8e787c5.js"
   ]
 }
