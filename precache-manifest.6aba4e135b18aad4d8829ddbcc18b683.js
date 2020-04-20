@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acdbd293c20fc7fa05aab35c30938ddd",
+    "revision": "2ed53fff4506b739788892d9dbcc6394",
     "url": "/kingtotecheckoutbuild/index.html"
   },
   {
-    "revision": "6c418ee724383b7f1403",
-    "url": "/kingtotecheckoutbuild/static/css/main.f383ba29.css"
+    "revision": "3b08b3df89de25fd6f27",
+    "url": "/kingtotecheckoutbuild/static/css/main.1a1bc014.css"
   },
   {
-    "revision": "6c418ee724383b7f1403",
+    "revision": "3b08b3df89de25fd6f27",
     "url": "/kingtotecheckoutbuild/static/js/main.a4a7e03a.js"
   },
   {
